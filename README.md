@@ -17,6 +17,7 @@ The other notebooks are helper files used to:
 - **web_scraping_v3_SUCCESS.ipynb** – final and successful scraping attempt  
   (downloads individual HTMLs, takes some time to run)
 - **obdelava_html.ipynb** – notebook for cleaning the HTML files, keeping only the required tables
+- **vsi_podatki.pkl** – main dataset used by `predstavitev_podatkov_v1.ipynb`
 - **predstavitev_podatkov_v1.ipynb** – **main notebook** where all visualization happens
 
 ## How to run
