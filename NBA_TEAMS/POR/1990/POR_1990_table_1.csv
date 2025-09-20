@@ -1,0 +1,25 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes
+1,"Thu, Apr 26, 1990",,Box Score,,Dallas Mavericks,W,,109,102,1,0,W 1,12884,2:13,
+2,"Sat, Apr 28, 1990",,Box Score,,Dallas Mavericks,W,,114,107,2,0,W 2,12884,2:21,
+3,"Tue, May 1, 1990",,Box Score,@,Dallas Mavericks,W,,106,92,3,0,W 3,17007,2:14,
+G,Date,,,,Opponent,,,Tm,Opp,W,L,Streak,Attend.,LOG,Notes
+4,"Sat, May 5, 1990",,Box Score,,San Antonio Spurs,W,,107,94,4,0,W 4,12884,2:17,
+5,"Tue, May 8, 1990",,Box Score,,San Antonio Spurs,W,,122,112,5,0,W 5,12884,2:15,
+6,"Thu, May 10, 1990",,Box Score,@,San Antonio Spurs,L,,98,121,5,1,L 1,15910,2:20,
+7,"Sat, May 12, 1990",,Box Score,@,San Antonio Spurs,L,,105,115,5,2,L 2,15910,2:26,
+8,"Tue, May 15, 1990",,Box Score,,San Antonio Spurs,W,2OT,138,132,6,2,W 1,12884,3:12,
+9,"Thu, May 17, 1990",,Box Score,@,San Antonio Spurs,L,,97,112,6,3,L 1,15910,2:12,
+10,"Sat, May 19, 1990",,Box Score,,San Antonio Spurs,W,OT,108,105,7,3,W 1,12884,2:52,
+G,Date,,,,Opponent,,,Tm,Opp,W,L,Streak,Attend.,LOG,Notes
+11,"Mon, May 21, 1990",,Box Score,,Phoenix Suns,W,,100,98,8,3,W 2,12884,2:11,
+12,"Wed, May 23, 1990",,Box Score,,Phoenix Suns,W,,108,107,9,3,W 3,12884,2:34,
+13,"Fri, May 25, 1990",,Box Score,@,Phoenix Suns,L,,89,123,9,4,L 1,14487,2:14,
+14,"Sun, May 27, 1990",,Box Score,@,Phoenix Suns,L,,107,119,9,5,L 2,14487,2:13,
+15,"Tue, May 29, 1990",,Box Score,,Phoenix Suns,W,,120,114,10,5,W 1,12884,2:33,
+16,"Thu, May 31, 1990",,Box Score,@,Phoenix Suns,W,,112,109,11,5,W 2,14487,2:40,
+G,Date,,,,Opponent,,,Tm,Opp,W,L,Streak,Attend.,LOG,Notes
+17,"Tue, Jun 5, 1990",,Box Score,@,Detroit Pistons,L,,99,105,11,6,L 1,21454,2:35,
+18,"Thu, Jun 7, 1990",,Box Score,@,Detroit Pistons,W,OT,106,105,12,6,W 1,21454,3:14,
+19,"Sun, Jun 10, 1990",,Box Score,,Detroit Pistons,L,,106,121,12,7,L 1,12884,2:32,
+20,"Tue, Jun 12, 1990",,Box Score,,Detroit Pistons,L,,109,112,12,8,L 2,12642,2:43,
+21,"Thu, Jun 14, 1990",,Box Score,,Detroit Pistons,L,,90,92,12,9,L 3,12642,2:30,

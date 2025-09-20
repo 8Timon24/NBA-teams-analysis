@@ -1,0 +1,11 @@
+G,Date,Unnamed: 2,Unnamed: 3,Unnamed: 4,Opponent,Unnamed: 6,Unnamed: 7,Tm,Opp,W,L,Streak,Attend.,LOG,Notes
+1,"Fri, Apr 27, 1990",,Box Score,,Houston Rockets,W,,101,89,1,0,W 1,17505,1:59,
+2,"Sun, Apr 29, 1990",,Box Score,,Houston Rockets,W,,104,100,2,0,W 2,17505,2:23,
+3,"Tue, May 1, 1990",,Box Score,@,Houston Rockets,L,,108,114,2,1,L 1,16611,2:19,
+4,"Thu, May 3, 1990",,Box Score,@,Houston Rockets,W,,109,88,3,1,W 1,16611,2:03,
+G,Date,,,,Opponent,,,Tm,Opp,W,L,Streak,Attend.,LOG,Notes
+5,"Tue, May 8, 1990",,Box Score,,Phoenix Suns,L,,102,104,3,2,L 1,17506,2:13,
+6,"Thu, May 10, 1990",,Box Score,,Phoenix Suns,W,,124,100,4,2,W 1,17505,2:01,
+7,"Sat, May 12, 1990",,Box Score,@,Phoenix Suns,L,,103,117,4,3,L 1,14487,2:20,
+8,"Sun, May 13, 1990",,Box Score,@,Phoenix Suns,L,,101,114,4,4,L 2,14487,2:32,
+9,"Tue, May 15, 1990",,Box Score,,Phoenix Suns,L,,103,106,4,5,L 3,17505,2:21,
